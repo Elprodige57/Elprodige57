@@ -1,16 +1,30 @@
-## Hi there 👋
+# Salut, moi c'est Nahim
 
-<!--
-**Elprodige57/Elprodige57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Fullstack & Mobile · Freelance disponible  
+BUT Informatique · IUT de Metz · 2025–2026
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ce que je sais faire
+
+- 📱 **Apps mobiles** — Flutter & Dart (iOS / Android)
+- 🌐 **Sites web** — HTML, CSS, JavaScript, PHP
+- 🔌 **APIs & scripts** — TypeScript, Deno
+- 🗄 **Bases de données** — MySQL, SQL, triggers, procédures
+- 🔧 **Réseaux** — Cisco IOS, VLANs, SSH, routage statique
+
+---
+
+## 💼 Services freelance
+
+- Création d'application web
+- Landing page & site vitrine
+- Script d'automatisation
+- Configuration réseau pour TPE/PME 
+
+---
+
+## 📫 Contact
+
+mehadjinahim@gmail.com  
+linkedin.com/in/nahim-mehadji-960467298
